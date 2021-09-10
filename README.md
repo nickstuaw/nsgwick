@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on NSys
+- 🌱 I’m currently learning Java, Javascript, HTML, and CSS
+- 👯 I’m looking to collaborate on my NSys plugin
+- 🤔 I’m looking for help with HTML and CSS
+- 📫 How to reach me: E-mail nick@nsgw.xyz or contact me on Discord (@nsgw#4459)
+- 😄 Pronouns: he/him
