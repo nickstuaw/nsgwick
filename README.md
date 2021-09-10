@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on NSys
+- 🔭 I’m currently working on NSys and https://nsgw.xyz/
 - 🌱 I’m currently learning Java, Javascript, HTML, and CSS
 - 👯 I’m looking to collaborate on my NSys plugin
 - 🤔 I’m looking for help with HTML and CSS
