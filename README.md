@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with HTML and CSS
 - 📫 How to reach me: E-mail nick@nsgw.xyz or contact me on Discord (@nsgw#4459)
 - 😄 Pronouns: he/him
+- 💰 I do this out of my own time. Donations are __greatly__ appreciated 🙏.
