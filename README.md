@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: E-mail nick@nsgw.xyz or contact me on Discord (@nsgw#4459)
 - 😄 Pronouns: he/him
 - 💰 I do this out of my own time. Donations are __greatly__ appreciated 🙏.
+
+[![nsgwick's github stats](https://github-readme-stats.vercel.app/api?username=nsgwick&show_icons=true&include_all_commits=true&theme=material-palenight)](https://github.com/nsgwick/nsgwick)
+
+[![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nsgwick&layout=compact&theme=material-palenight)](https://github.com/nsgwick/nsgwick)
