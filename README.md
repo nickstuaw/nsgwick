@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 [![nsgwick's github stats](https://github-readme-stats.vercel.app/api?username=nsgwick&show_icons=true&include_all_commits=true&theme=maroongold)](https://github.com/nsgwick/nsgwick)
 
 [![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nsgwick&layout=compact&theme=maroongold)](https://github.com/nsgwick/nsgwick)
+
+
+[![nsgwick's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nsgwick)](https://github.com/nsgwick/nsgwick)
