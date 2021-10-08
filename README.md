@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on NSys and https://nsgw.xyz/
-- 🌱 I’m currently learning Java, Javascript, HTML, and CSS
 - 👯 I’m looking to collaborate on my NSys plugin
-- 🤔 I’m looking for help with HTML and CSS
 - 📫 How to reach me: visit https://nsgw.xyz/contact or contact me on Discord (@nsgw#4459)
 - 😄 Pronouns: he/him
 - 💰 I do this out of my own time. Donations are __greatly__ appreciated 🙏.
