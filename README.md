@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on NSys and https://nsgw.xyz/
+- 🔭 I’m currently working on NSys, SocketServer, PersonalPVP, and https://nsgw.xyz/
 - 👯 I’m looking to collaborate on my NSys plugin
 - 📫 How to reach me: visit https://nsgw.xyz/contact or contact me on Discord (@nsgw#4459)
 - 😄 Pronouns: he/him
-- 💰 I do this out of my own time. Donations are __greatly__ appreciated 🙏.
 
 [![nsgwick's github stats](https://github-readme-stats.vercel.app/api?username=nsgwick&show_icons=true&include_all_commits=true&theme=maroongold)](https://github.com/nsgwick/nsgwick)
 
