@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on NSys, SocketServer, PersonalPVP, and https://nsgw.xyz/
-- 👯 I’m looking to collaborate on my NSys plugin
+- 🔭 I’m currently working on my Arch Linux installation scripts, NSys, SocketServer, PersonalPVP, and https://nsgw.xyz/
+- 👯 I’m looking to collaborate on any of my projects 
 - 📫 How to reach me: join my discord server at the bottom of the page at https://nsgw.xyz/ or contact me on Discord (@nsgw#4459)
 - 😄 Pronouns: he/him
 
