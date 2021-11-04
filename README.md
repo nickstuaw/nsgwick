@@ -1,4 +1,4 @@
-### Hi there 👋
+### Btw, `I use arch`
 
 <!--
 **nsgwick/nsgwick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[`Website`](https://nsgw.xyz) [`Specs`](https://nsgw.xyz/specs) [`Arch Scripts`](https://github.com/nsgwick/ArchScripts)
 
 - 🔭 I’m currently working on my Arch Linux installation scripts, NSys, SocketServer, PersonalPVP, and https://nsgw.xyz/
 - 👯 I’m looking to collaborate on any of my projects 
