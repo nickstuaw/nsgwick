@@ -1,4 +1,4 @@
-### Btw, `I use arch`
+### Btw, I use arch
 
 <!--
 **nsgwick/nsgwick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# [`Website`](https://nsgw.xyz) [`Specs`](https://nsgw.xyz/specs)
+### [`Website`](https://nsgw.xyz) [`PC Specs`](https://nsgw.xyz/specs)
 
 - 👯 I’m looking to collaborate on any of my projects 
 - 
