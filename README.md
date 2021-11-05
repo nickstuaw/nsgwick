@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 # [`Website`](https://nsgw.xyz) [`Specs`](https://nsgw.xyz/specs) [`Arch Scripts`](https://github.com/nsgwick/ArchScripts)
 
-- 🔭 I’m currently working on my Arch Linux installation scripts, NSys, SocketServer, PersonalPVP, and https://nsgw.xyz/
+- 🔭 I’m currently working on my Arch Linux installation scripts
 - 👯 I’m looking to collaborate on any of my projects 
-- 📫 How to reach me: join my discord server at the bottom of the page at https://nsgw.xyz/ or contact me on Discord (@nsgw#4459)
+- 📫 How to reach me: contact me on Discord (@nsgw#4459)
 - 😄 Pronouns: he/him
 
 [![nsgwick's github stats](https://github-readme-stats.vercel.app/api?username=nsgwick&show_icons=true&include_all_commits=true&theme=maroongold)](https://github.com/nsgwick/nsgwick)
