@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# [`Website`](https://nsgw.xyz) [`Specs`](https://nsgw.xyz/specs) [`Arch Scripts`](https://github.com/nsgwick/ArchScripts)
+# [`Website`](https://nsgw.xyz) [`Specs`](https://nsgw.xyz/specs)
+# Working on: [`Arch Scripts`](https://github.com/nsgwick/ArchScripts)
 
 - 🔭 I’m currently working on my Arch Linux installation scripts
 - 👯 I’m looking to collaborate on any of my projects 
