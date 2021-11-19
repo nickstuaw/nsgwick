@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### [`Website`](https://nsgw.xyz) [`PC Specs`](https://nsgw.xyz/specs)
+### [`Website`](https://nsgw.xyz)
 
 - 👯 I’m looking to collaborate on any of my projects 
 - 
