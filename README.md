@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
 [![nsgwick's github stats](https://github-readme-stats.vercel.app/api?username=nsgwick&show_icons=true&include_all_commits=true&theme=maroongold)](https://github.com/nsgwick/nsgwick)
 
-# Current project: [`Arch Scripts`](https://github.com/nsgwick/ArchScripts)
+# Current project: [`N.OS Java Edition`](https://github.com/nsgwick/nos-j)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nsgwick&theme=maroongold)](https://git.io/streak-stats)
