@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <table>
     <tr>
-        <td align="center"><a href="https://github.com/nsgwick"><img src="https://avatars.githubusercontent.com/u/90180047?v=4&s=100" width="100px;" alt=""/><br /><b>nsgwick</b></a><br/><sub>Amateur Developer</sub></td>
+        <td align="center"><a href="https://nsgwick.com/"><img src="https://avatars.githubusercontent.com/u/90180047?v=4&s=100" width="100px;" alt=""/><br /><b>nsgwick</b></a><br/><sub>Amateur Developer</sub></td>
     </tr>
 </table>
 
