@@ -23,6 +23,14 @@ Here are some ideas to get you started:
 - 
 - 😄 Pronouns: he/him
 
+
+<table>
+    <tr>
+        <td align="center"><a href="https://github.com/nsgwick"><img src="https://avatars.githubusercontent.com/u/90180047?v=4&s=100" width="100px;" alt=""/><br /><b>nsgwick</b></a><br/><sub>Amateur Developer</sub></td>
+    </tr>
+</table>
+
+
 [![nsgwick's github stats](https://github-readme-stats.vercel.app/api?username=nsgwick&show_icons=true&include_all_commits=true&theme=maroongold)](https://github.com/nsgwick/nsgwick)
 
 # Latest project: [`Password Generator`](https://github.com/nsgwick/PasswordGenerator)
