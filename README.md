@@ -1,4 +1,4 @@
-### Btw, I use*d* arch
+### Btw, I use arch
 
 <!--
 **nsgwick/nsgwick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
