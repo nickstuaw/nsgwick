@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on any of my projects 
 - 
-- 📫 How to reach me: contact me on Discord (@nsgw#0001)
+- 📫 How to reach me: contact me on Discord (@Glo-strode#0001)
 - 
 - 😄 Pronouns: he/him
 
