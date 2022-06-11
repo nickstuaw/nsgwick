@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: contact me on Discord (@Glo-strode#0001)
 - 😄 Pronouns: he/him
 *I use Arch sometimes btw*
-## Coding activity over the past week
-![Coding activity graph](https://wakatime.com/share/@nsgwick/9ae3e6fe-8137-4684-aeb2-3a1fab28db34.svg)
 <table>
     <tr>
         <td align="center"><a href="https://nsgwick.com/"><img src="https://avatars.githubusercontent.com/u/90180047?v=4&s=100" width="100px;" alt=""/><br /><b>nsgwick</b></a><br/><sub>Amateur Developer</sub></td>
