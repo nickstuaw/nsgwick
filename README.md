@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 [`Website`](https://nsgwick.com)
 - 👯 I’m looking to collaborate on any of my projects 
-- 📫 How to reach me: contact me on Discord (@nickstuaw#0001)
+- 📫 How to reach me: contact me on Discord (@NicholasW#1920)
 - 😄 Pronouns: he/him
 *I use Arch sometimes btw*
 <table>
