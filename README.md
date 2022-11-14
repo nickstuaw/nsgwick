@@ -24,9 +24,6 @@ Here are some ideas to get you started:
     </tr>
 </table>
 
-## Overall coding activity
-![](https://wakatime.com/share/@nsgwick/ec79b2f3-2eab-4845-9d3a-43ae0b48ef7e.svg)
-![](https://wakatime.com/share/@nsgwick/4d44e715-af3f-453d-a091-5e08124720c7.svg)
 [![nsgwick's github stats](https://github-readme-stats.vercel.app/api?username=nsgwick&show_icons=true&include_all_commits=true&theme=maroongold)](https://github.com/nsgwick/nsgwick)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nsgwick&theme=maroongold)](https://git.io/streak-stats)
