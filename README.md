@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 How to reach me: contact me on Discord (@NicholasW#1920)
-- 😄 Pronouns: he/him
 - Knowledge: Java (Advanced/Expert), C# (Intermediate/Advanced), Python, JavaScript, Bash, MySQL, HTML, CSS
 - D*DD in a BTEC Lvl 3 National Extended Diploma in Digital Development
 - Preferred languages (ranked high to low): Java, JavaScript, MySQL, C#, Python, Bash, CSS, HTML
 - Full-time student in Maths, Chemistry & Art
+- Pronouns: he/him
+- How to reach me: contact me on Discord (@NicholasW#1920)
 <table>
     <tr>
         <td align="center"><a href="https://nsgwick.com/"><img src="https://avatars.githubusercontent.com/u/90180047?v=4&s=100" width="100px;" alt=""/><br /><b>nsgwick</b></a><br/><sub>Amateur Developer</sub></td>
