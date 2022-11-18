@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: contact me on Discord (@NicholasW#1920)
 - 😄 Pronouns: he/him
 - Knowledge: Java (Advanced/Expert), C# (Intermediate/Advanced), Python, JavaScript, Bash, MySQL, HTML, CSS
-- D*DD in a BTEC Lvl 3 National Extended Diploma in Computing
+- D*DD in a BTEC Lvl 3 National Extended Diploma in Digital Development
 - Preferred languages (ranked high to low): Java, JavaScript, MySQL, C#, Python, Bash, CSS, HTML
 <table>
     <tr>
